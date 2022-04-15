@@ -9,6 +9,7 @@
   "devDependencies": {
     "@dwhieb/eslint-config": "^3.1.0",
     "eslint": "^8.13.0",
+    "postcss-less": "^6.0.0",
     "stylelint": "^14.6.1"
   }
 }
