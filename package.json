@@ -6,10 +6,12 @@
   "bugs": "https://github.com/dwhieb/stylelint-config/issues",
   "author": "Daniel W. Hieber (https://github.com/dwhieb)",
   "main": "index.js",
+  "dependencies": {
+    "postcss-less": "^6.0.0"
+  },
   "devDependencies": {
     "@dwhieb/eslint-config": "^3.1.0",
     "eslint": "^8.13.0",
-    "postcss-less": "^6.0.0",
     "stylelint": "^14.6.1"
   }
 }
