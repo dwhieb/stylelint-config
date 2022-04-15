@@ -1,7 +1,7 @@
 {
   "name": "@dwhieb/stylelint-config",
   "description": "My personal Stylelint config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "ISC",
   "bugs": "https://github.com/dwhieb/stylelint-config/issues",
   "author": "Daniel W. Hieber (https://github.com/dwhieb)",
